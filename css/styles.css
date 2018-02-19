@@ -6,6 +6,7 @@ body {
 .navbar-inverse{
 	background-color: #512DA8;
 }
+
 .row-header {
 	margin: 0px auto;
 	padding: 0px auto;
@@ -35,4 +36,12 @@ body {
 	font-size: 80%;
 	margin: 0px;
 	color: #0f0f0f;
+}
+
+.reserve {
+	background-color: #FFAB40;
+}
+
+.reserve-button {
+	background-color: #FFAB40;
 }
